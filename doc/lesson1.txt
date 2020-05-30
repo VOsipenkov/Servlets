@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=Jnd4PQt44j0&list=PLU2ftbIeotGoQGD51e0qb98lE0xhgNDF1
+
+приложение отвечает по get localhost:8080/app/names
+запускается plugins->jetty:run
